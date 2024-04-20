@@ -1,0 +1,20 @@
+header {
+	height: 50px;
+	background-color: #ffdddd;
+}
+#wrapper {
+	height: 100px;
+	
+}
+#main{
+	background-color: #ddffdd;
+	
+}
+aside {
+	background-color: #ffddff;
+	
+}
+footer {
+	height: 50px;
+	background-color: #ddddff;
+}
